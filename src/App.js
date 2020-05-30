@@ -16,7 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and Angular ,Vue
+          Learn React 
+          Learning deploying the react app with travis CI
         </a>
       </header>
     </div>
