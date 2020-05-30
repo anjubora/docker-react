@@ -16,7 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Welcome to test deployement on Elastic bean stalk by travis CI
+          Learn React 
+          Learning deploying the react app with travis CI
         </a>
       </header>
     </div>
